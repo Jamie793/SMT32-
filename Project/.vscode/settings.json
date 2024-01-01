@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "stm32f10x.h": "c",
+        "servo.h": "c",
+        "timer.h": "c",
+        "usart.h": "c",
+        "pid.h": "c",
+        "stdlib.h": "c"
+    }
+}
